@@ -1,8 +1,12 @@
 [core]
-    remote = myremote
+    remote = s3_remote1
 ['remote "gdrive_remote"']
     url = gdrive://<your_folder_id>
 ['remote "gdrive_remote2"']
     url = https://drive.google.com/drive/folders/1f9FiNqRfLhTnXvP7Opogr9_77tWbeAX6
 ['remote "myremote"']
     url = gdrive://1f9FiNqRfLhTnXvP7Opogr9_77tWbeAX6
+['remote "s3_remote"']
+    url = s3://my-weather-data-bucket/weather_pipeline
+['remote "s3_remote1"']
+    url = s3://classtask7
