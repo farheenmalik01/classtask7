@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive_remote2
+['remote "gdrive_remote"']
+    url = gdrive://<your_folder_id>
+['remote "gdrive_remote2"']
+    url = https://drive.google.com/drive/folders/1f9FiNqRfLhTnXvP7Opogr9_77tWbeAX6
