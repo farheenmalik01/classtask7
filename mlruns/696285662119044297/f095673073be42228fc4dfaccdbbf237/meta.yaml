@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/classTask7/weather_data_pipeline/mlruns/696285662119044297/f095673073be42228fc4dfaccdbbf237/artifacts
+end_time: 1733682139253
+entry_point_name: ''
+experiment_id: '696285662119044297'
+lifecycle_stage: active
+run_id: f095673073be42228fc4dfaccdbbf237
+run_name: spiffy-mule-885
+run_uuid: f095673073be42228fc4dfaccdbbf237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733682139210
+status: 3
+tags: []
+user_id: Hp

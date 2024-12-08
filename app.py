@@ -22,3 +22,4 @@ for entry in data['list']:
 df = pd.DataFrame(weather_data)
 df.to_csv('raw_data.csv', index=False)
 print("Data saved to raw_data.csv")
+
